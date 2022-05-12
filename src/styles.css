@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+.text-label {
+  color: #fff;
+}
